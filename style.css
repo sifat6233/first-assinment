@@ -92,3 +92,35 @@ width: 650px;
   border: none;
   margin-bottom: 15px;
 }
+
+/*-------- Donate Plan section----------- */
+.donate-plan-row.flexable {
+  width: 1100px;
+  margin: auto;
+}
+.single-donate-plan {
+  margin: 12px;
+  padding: 55px 22px 32px 25px;
+  border-radius: 10px;
+}
+.food-wrap{
+  background-color: #EDF5F6;
+}
+.family-wrap{
+  background-color: #FFEEEE;
+}
+.education-wrap{
+  background-color: #FFF4D6;
+}
+.single-donate-plan img {
+  width: 55px;
+  height: 45px;
+}
+.single-donate-plan h2 {
+  font-size: 23px;
+  color: #000000c9;
+}
+.single-donate-plan p {
+  font-size: 15px;
+  color: #00000069;
+}
